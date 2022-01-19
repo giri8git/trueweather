@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/trueweather/static/js/main.6f38b800.js",
+    "static/media/logo.png": "/trueweather/static/media/logo.1d022518f9679fe0c5ab.png",
+    "index.html": "/trueweather/index.html",
+    "main.6f38b800.js.map": "/trueweather/static/js/main.6f38b800.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6f38b800.js"
+  ]
+}

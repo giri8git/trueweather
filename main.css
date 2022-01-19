@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
+
+html,
+body {
+    height: 100%
+}
+
+* {
+    padding: 0px;
+    margin: 0px
+}
+
+body {
+    background-color: #000000;
+    display: grid;
+    place-items: center
+}
+
+.card {
+   
+    background-image: url(https://images.pexels.com/photos/2310713/pexels-photo-2310713.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    border-radius: 50px;
+    color: #000000;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Marcellus', serif;
+    box-shadow: 5px 5px 18px #4d4d4d;
+
+}
+
+#heading {
+    font-size: 55px;
+    color: #000000
+}
+
+.temp {
+    place-items: center
+}
+
+.temp-details>p>span,
+.grey {
+    color: #000000;
+    font-size: 12px
+}
+
+.fa {
+    color: #000000
+}
+
+*:focus {
+    outline: none
+}
+.input-city{
+    margin: 10% 20% 0 20%;
+}
+
+input.form-control{
+    border-radius: 11px;
+    box-shadow: 5px 5px 18px #c7c7c7;
+}
+.d-flex{
+    align-items: center !important;
+}
+.app-name{
+    color: #F6B643;
+}
+small.text-muted {
+    color: white !important;
+}
+.logo{
+    width: 100px !important;
+}
